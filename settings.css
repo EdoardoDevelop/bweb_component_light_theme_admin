@@ -1,0 +1,12 @@
+.wp-picker-container{
+    position: relative;
+}
+.wp-picker-holder{
+    position: absolute;
+    left: 0;
+    top: 30px;
+    z-index: 999999;
+}
+.wp-picker-container .wp-color-result.button{
+    vertical-align: middle;
+}
